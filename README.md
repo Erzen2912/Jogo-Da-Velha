@@ -1,6 +1,4 @@
-<h1 align="center"> Jogo Da Velha </h1>
-
-<img aling="center"> ![image](https://user-images.githubusercontent.com/59092579/178786332-a67ea292-9179-4d4b-a0d8-5be91c0e9627.png)
+<img align="center"> ![image](https://user-images.githubusercontent.com/59092579/178786332-a67ea292-9179-4d4b-a0d8-5be91c0e9627.png)
 </img>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Concluído&color=GREEN&style=for-the-badge)
