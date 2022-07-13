@@ -6,7 +6,7 @@
 ## :hammer: Uma Pequena Descriçãozinha :)
 
 
-<strong>O projeto consiste em uma simples jogatina do popular jogo: 'Jogo Da Velha', fiz ele em JS e consiste em dois jogadores<strong> duelarem entre sim e quem conseguir fazer uma sequência com 3 elementos iguais ganha!
+<strong>O projeto consiste em uma simples jogatina do popular jogo: 'Jogo Da Velha', fiz ele em JS e consiste em dois jogadores<strong> duelarem entre si e quem conseguir fazer uma sequência com 3 elementos iguais ganha!
 
 ## Tecnologia Usada:
 
