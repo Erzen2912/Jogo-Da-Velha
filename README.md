@@ -13,6 +13,8 @@
 <table>
   <tr>
     <td>JS</td>
+    <td>HTML</td>
+    <td>CSS</td>
   </tr>
 </table>
 
